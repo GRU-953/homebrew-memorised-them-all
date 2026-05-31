@@ -22,7 +22,7 @@ class Mta < Formula
 
   def caveats
     <<~EOS
-      On first run,  creates a self-managed virtualenv under
+      On first run, the mta command creates a self-managed virtualenv under
       ~/.memorised-them-all and installs its Python dependencies plus the latest
       MarkItDown from upstream (this needs network and may take a minute).
 
