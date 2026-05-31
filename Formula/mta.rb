@@ -2,7 +2,7 @@ class Mta < Formula
   desc "Local, token-free file digestion to knowledge-graph memory for Claude"
   homepage "https://github.com/GRU-953/memorised-them-all"
   url "https://github.com/GRU-953/memorised-them-all/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "25f3088ee5d538d5241484ca29b3814980df47f89dd48313eb6a9d7b626deef2"
+  sha256 "4281cdfa2d3330239606d922757a3de1575d37f0af1270444d2fe00f9fb5cabd"
   license "MIT"
   version "1.2.0"
 
