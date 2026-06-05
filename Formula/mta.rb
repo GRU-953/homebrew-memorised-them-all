@@ -1,10 +1,10 @@
 class Mta < Formula
   desc "Local, token-free file digestion to knowledge-graph memory for Claude"
   homepage "https://github.com/GRU-953/memorised-them-all"
-  url "https://github.com/GRU-953/memorised-them-all/archive/refs/tags/v1.5.2.tar.gz"
-  sha256 "605f58c2aa79dfd7f172bd920e567265324229b056a83b741f304461340f2168"
+  url "https://github.com/GRU-953/memorised-them-all/archive/refs/tags/v1.6.0.tar.gz"
+  sha256 "29b62fa33cc044b957da5206c81cd5d2163713758fa021dbb8a1caabcb938952"
   license "MIT"
-  version "1.5.2"
+  version "1.6.0"
 
   depends_on "python@3.12"
   depends_on "ollama" => :recommended
